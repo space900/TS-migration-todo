@@ -1,0 +1,16 @@
+{
+  "name": "ts-migration-todo",
+  "version": "1.0.0",
+  "description": "migration Todo app from Js to Ts",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Khnykin Andrey",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
